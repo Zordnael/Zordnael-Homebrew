@@ -1,8 +1,11 @@
 {
-	"optionalfeature":{
-		"collection/Zordnael; Curse Of Strahd.json":"collection"
+	"optionalfeature": {
+		"collection/Zordnael; Curse Of Strahd.json": "collection"
 	},
-	"feat":{
-		"collection/Zordnael; Curse Of Strahd.json":"collection"
-       }
+	"feat": {
+		"collection/Zordnael; Curse Of Strahd.json": "collection"
+	},
+	"creature": {
+		"creature/Zordnael; Baast.json": "creature"
+	}
 }
