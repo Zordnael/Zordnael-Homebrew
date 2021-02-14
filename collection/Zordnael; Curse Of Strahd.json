@@ -369,12 +369,6 @@
 				"type": "internal",
 				"path": "bestiary/spy.mp3"
 			},
-			"altArt": [
-				{
-					"name": "Vistana Spy",
-					"source": "CoS"
-				}
-			],
 			"traitTags": [
 				"Sneak Attack"
 			],
