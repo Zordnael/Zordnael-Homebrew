@@ -366,8 +366,8 @@
 				}
 			],
 			"soundClip": {
-				"type": "external",
-				"url": "https://5e.tools/audio/bestiary/spy.mp3?v=1.122.6"
+				"type": "internal",
+				"path": "bestiary/spy.mp3"
 			},
 			"altArt": [
 				{
