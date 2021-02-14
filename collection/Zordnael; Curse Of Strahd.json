@@ -396,6 +396,9 @@
 			"hasFluff": true,
 			"hasFluffImages": true,
 			"tokenUrl": "https://i.imgur.com/4jLLe4R.png",
+			"environment": [
+				"urban"
+			],
 			"fluff": {
 				"entries": [
 					{
