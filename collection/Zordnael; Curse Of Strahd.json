@@ -392,11 +392,11 @@
 				"RW",
 				"RNG"
 			],
+			"hasToken": true,
 			"hasFluff": true,
-			"tokenUrl": "https://5e.tools/img/MM/Spy.png?v=1.122.6",
+			"hasFluffImages": true,
+			"tokenUrl": "https://i.imgur.com/4jLLe4R.png",
 			"fluff": {
-				"name": "Spy",
-				"source": "MM",
 				"entries": [
 					{
 						"type": "entries",
@@ -408,6 +408,15 @@
 								]
 							}
 						]
+					}
+				],
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://db4sgowjqfwig.cloudfront.net/images/3638548/ernst.jpg"
+						}
 					}
 				]
 			}
