@@ -427,12 +427,12 @@
 			"type": "R",
 			"rarity": "uncommon",
 			"entries": [
-				"Kavan was a ruthless chieftain whose tribe lived in the Balinok Mountains centuries before the arrival of Strahd von Zarovich. Although he was very much alive, Kavan had some traits in common with vampires: he slept during the day and hunted at night, he drank the blood of his prey, and he lived underground.",
+				"Kavan was a ruthless chieftain whose tribe lived in the Balinok Mountains centuries before the arrival of {@creature Strahd von Zarovich|CoS}. Although he was very much alive, Kavan had some traits in common with vampires: he slept during the day and hunted at night, he drank the blood of his prey, and he lived underground.",
 				"In battle, he wielded a spear stained with blood. His was the first blood spear, however, because of a ritual made to transform the spear into a range weapon, it has become a longbow. The longbow is a weapon that drains life from those it kills and is capable of shoot blood draining arrows.",
 				"This magic longbow has 3 charges. When you hit with a ranged attack using this magic longbow and reduce the target to 0 hit points, this bow regains one charge. It also replenishes all of its charges in a long rest.",
-				"The creature attuned to this bow can use one of its charges as part of an attack to imbue the arrow with necrotic energy, turning it into a blood draining arrow. If the attack hits, the target creature takes an additional 2d8 necrotic damage.",
+				"The creature attuned to this bow can use one of its charges as part of an attack to imbue the arrow with necrotic energy, turning it into a blood draining arrow. If the attack hits, the target creature takes an additional {@dice 2d8} necrotic damage.",
 				"If the creature attuned with this bow makes a ranged attack with it while it has 0 charges, it cannot choose to not to make a non-lethal attack, since the bow is too thirsty for holding itself back.",
-				"Any creature can wield the bow, but only the character chosen by Kavan and attuned to it gains a +2 bonus to attack and damage rolls made with this magic weapon."
+				"Any creature can wield the bow, but only the character {@adventure chosen by Kavan|CoS|14|Blood Spear of Kavan} and attuned to it gains a +2 bonus to attack and damage rolls made with this magic weapon."
 			],
 			"fluff": {
 				"images": [
@@ -445,6 +445,7 @@
 					}
 				]
 			},
+			"hasFluffImages": true,
 			"bonusWeapon": "+2",
 			"charges": 3,
 			"recharge": "dusk",
