@@ -434,15 +434,17 @@
 				"If the creature attuned with this bow makes a ranged attack with it while it has 0 charges, it cannot choose to not to make a non-lethal attack, since the bow is too thirsty for holding itself back.",
 				"Any creature can wield the bow, but only the character chosen by Kavan and attuned to it gains a +2 bonus to attack and damage rolls made with this magic weapon."
 			],
-			"images": [
-				{
-					"type": "image",
-					"href": {
-						"type": "external",
-						"url": "https://i.imgur.com/SoqQZPl.png"
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://i.imgur.com/SoqQZPl.png"
+						}
 					}
-				}
-			],
+				]
+			},
 			"bonusWeapon": "+2",
 			"charges": 3,
 			"recharge": "dusk",
