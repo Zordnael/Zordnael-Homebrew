@@ -423,8 +423,9 @@
 		{
 			"name": "Blood Bow of Kavan",
 			"source": "Zordnael",
-			"page": "0",
+			"page": 0,
 			"type": "R",
+			"tier": "major",
 			"rarity": "uncommon",
 			"entries": [
 				"Kavan was a ruthless chieftain whose tribe lived in the Balinok Mountains centuries before the arrival of {@creature Strahd von Zarovich|CoS}. Although he was very much alive, Kavan had some traits in common with vampires: he slept during the day and hunted at night, he drank the blood of his prey, and he lived underground.",
@@ -461,6 +462,44 @@
 				"2H",
 				"A"
 			]
+		},
+		{
+			"name": "Instrument of the Bards, Glamorous Violin",
+			"source": "Zordnael",
+			"page": 0,
+			"type": "INS",
+			"tier": "major",
+			"rarity": "uncommon",
+			"reqAttune": "by a bard",
+			"wondrous": true,
+			"weight": 2,
+			"entries": [
+				"An instrument of the bards is an exquisite example of its kind, superior to an ordinary instrument in every way. A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take {@dice 2d4} psychic damage.",
+				"You can use an action to play the instrument and cast one of its spells. Once the instrument has been used to cast a spell, it can't be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.",
+				"You can play the instrument while casting a spell that causes any of its targets to be {@condition charmed} on a failed saving throw, thereby imposing disadvantage on the save. This effect applies only if the spell has a somatic or a material component.",
+				"All instruments of the bards can be used to cast the following spells: {@spell fly}, {@spell invisibility}, {@spell levitate}, and {@spell protection from evil and good}.",
+				"In addition, the Doss lute can be used to cast {@spell distort value}, {@spell enlarge/reduce}, and {@spell crown of madness}."
+			],
+			"attachedSpells": [
+				"crown of madness",
+				"distort value",
+				"enlarge/reduce",
+				"fly",
+				"invisibility",
+				"levitate"
+			],
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://i.imgur.com/1aDYsH4.png"
+						}
+					}
+				]
+			},
+			"hasFluffImages": true
 		}
 	]
 }
