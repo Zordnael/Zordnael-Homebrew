@@ -1,1 +1,5 @@
 https://raw.githubusercontent.com/Zordnael/Zordnael-Homebrew/master/collection/Zordnael;%20Curse%20Of%20Strahd.json
+
+zordnaelfoundry.hopto.org:30000
+
+https://gitlab.com/riccisi/foundryvtt-magic-items/raw/2.0.8/module/module.json
