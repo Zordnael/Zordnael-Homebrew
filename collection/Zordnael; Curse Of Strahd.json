@@ -108,6 +108,27 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "Star of Ice and Hate",
+			"source": "Zordnael",
+			"prerequisite": [
+				{
+					"other": "Requires a fragment of Delban's soul"
+				}
+			],
+			"entries": [
+				"The fragment Delban's divine soul that resides within has awaken. Because of that, your affinity with cold becomes clear. When you gain this feat, you gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Spells you cast ignore resistance to the cold damage.",
+						"When you roll damage for a spell you cast that deals cold damage, you can treat any 1 on a damage die as a 2.",
+						"When you cast a spell that deals acid, fire, lightning or thunder damage, you can spend 1 sorcery point to change that damage type to cold."
+					]
+				},
+				"This feat can stack with the @{feat Elemental Adept|phb|Elemental Adept} feat. If you take that feat choosing the cold element, treat immunity to cold as resistance to cold instead and you can also treat any 1 or 2 rolled on a damage die of a cold damage spell as a 3."
+			]
 		}
 	],
 	"monster": [
