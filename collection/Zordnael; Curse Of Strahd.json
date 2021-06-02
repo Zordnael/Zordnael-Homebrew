@@ -113,7 +113,8 @@
 			"source": "Zordnael",
 			"prerequisite": [
 				{
-					"other": "Requires a fragment of Delban's soul"
+					"other": "Requires a fragment of Delban's soul",
+					"spellcasting": true
 				}
 			],
 			"entries": [
@@ -126,7 +127,7 @@
 						"When you cast a spell that deals acid, fire, lightning or thunder damage, you can spend 1 sorcery point to change that damage type to cold."
 					]
 				},
-				"This feat can stack with the @{feat Elemental Adept|phb|Elemental Adept} feat. If you take that feat choosing the cold element, treat immunity to cold as resistance to cold instead and you can also treat any 1 or 2 rolled on a damage die of a cold damage spell as a 3."
+				"This feat can stack with the {@feat Elemental Adept|phb|Elemental Adept} feat. If you take that feat choosing the cold element, treat immunity to cold as resistance to cold instead and you can also treat any 1 or 2 rolled on a damage die of a cold damage spell as a 3."
 			]
 		}
 	],
