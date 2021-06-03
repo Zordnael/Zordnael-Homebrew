@@ -144,7 +144,7 @@
 					"type": "list",
 					"items": [
 						"The maximum score for your Charisma becomes raises by 2.",
-						"You can utter a curse and cast the {@spell Bestow Curse|php|Bestow Curse} spell at 5th level on a creature you can see once per long rest without expending a spell slot. When you do so, you can cast it with a 30ft range, do not need somatic components and the uttered curse works as the verbal component of the spell."
+						"You can utter a curse and cast the {@spell bestow curse} spell at 5th level on a creature you can see once per long rest without expending a spell slot. When you do so, you can cast it with a 30ft range, do not need somatic components and the uttered curse works as the verbal component of the spell."
 					]
 				}
 			]
