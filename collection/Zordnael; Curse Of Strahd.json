@@ -143,7 +143,7 @@
 				{
 					"type": "list",
 					"items": [
-						"The maximum score for your Charisma is raised by 2.",
+						"Your Charisma score maximum is increased by 2.",
 						"You can utter a curse and cast the {@spell bestow curse} spell at 5th level on a creature you can see once per long rest without expending a spell slot. When you do so, you can cast it with a 30ft range, do not need somatic components and the uttered curse works as the verbal component of the spell."
 					]
 				}
@@ -162,7 +162,7 @@
 				{
 					"type": "list",
 					"items": [
-						"The maximum score for your Wisdom is raised by 2.",
+						"Your Wisdom score maximum is increased by 2.",
 						"You can reach out to your royal blood power and cast the {@spell moonbeam} spell at the level up to your proficiency bonus without spending a spell slot once per long rest. When you do so, the spell does not require concentration."
 					]
 				}
